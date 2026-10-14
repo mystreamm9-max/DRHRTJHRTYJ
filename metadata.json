@@ -1,0 +1,6 @@
+{
+  "name": "Capri GDL",
+  "description": "Cliente móvil para el sistema de registro y cierre de mesas de Casino Capri GDL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
